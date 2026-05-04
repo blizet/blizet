@@ -1,6 +1,6 @@
 ## my desk
 
-*a pinboard of identity — hover any cutout for a short note, or open the full interactive desk on the site.*
+*a pinboard of identity - hover any cutout for a short note, or open the full interactive desk on the site.*
 
 <!-- desk collage — row 1 -->
 <p align="center">
