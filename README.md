@@ -60,7 +60,7 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 
 ## GitHub Stack :)
 
-<img align="right" width="45%" src="images/desk.png" alt="stack"/>
+<img align="right" width="40%" src="images/desk.png" alt="stack"/>
 
 <div>
 
