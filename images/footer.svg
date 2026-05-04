@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="ft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffe4e6"/>
+      <stop offset="50%" stop-color="#e0e7ff"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#ft)"/>
+  <line x1="5%" y1="28" x2="95%" y2="28" stroke="#f9a8d4" stroke-width="1" opacity="0.6"/>
+  <text x="50%" y="36" text-anchor="middle" fill="#6b5b7a" font-family="system-ui,sans-serif" font-size="13" font-weight="500">tech, art, purpose</text>
+</svg>

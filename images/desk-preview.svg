@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420" role="img" aria-label="Desk collage preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7ed"/>
+      <stop offset="50%" stop-color="#fdf4ff"/>
+      <stop offset="100%" stop-color="#ecfeff"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#a855f7" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)" rx="18" ry="18"/>
+  <text x="400" y="38" text-anchor="middle" fill="#6b5b7a" font-family="system-ui,Segoe UI,sans-serif" font-size="15" font-weight="600">drag and hover on the real site</text>
+  <g filter="url(#sh)">
+    <ellipse cx="200" cy="150" rx="70" ry="64" fill="#bfdbfe" opacity="0.8" transform="rotate(-8 200 150)"/>
+    <ellipse cx="360" cy="120" rx="90" ry="78" fill="#fda4af" opacity="0.75" transform="rotate(4 360 120)"/>
+    <ellipse cx="580" cy="160" rx="100" ry="86" fill="#c4b5fd" opacity="0.65" transform="rotate(-5 580 160)"/>
+    <rect x="300" y="200" width="200" height="150" rx="16" fill="#fef3c7" stroke="#fcd34d" stroke-width="1.5" opacity="0.95" transform="rotate(-2 400 275)"/>
+    <rect x="480" y="220" width="120" height="100" rx="12" fill="#d1fae5" stroke="#6ee7b7" stroke-width="1.2" opacity="0.9" transform="rotate(6 540 270)"/>
+    <rect x="120" y="240" width="140" height="100" rx="12" fill="#fce7f3" stroke="#f9a8d4" stroke-width="1.2" opacity="0.92" transform="rotate(-6 190 290)"/>
+    <circle cx="400" cy="255" r="48" fill="#e9d5ff" stroke="#c4b5fd" stroke-width="2"/>
+    <text x="400" y="260" text-anchor="middle" fill="#5b21b6" font-family="system-ui,sans-serif" font-size="11" font-weight="700">you</text>
+  </g>
+  <text x="400" y="400" text-anchor="middle" fill="#8b7b99" font-family="system-ui,sans-serif" font-size="12">preview, live desk opens in the browser</text>
+</svg>
