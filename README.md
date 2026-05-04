@@ -65,10 +65,6 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 <div>
 
 <a href="https://github.com/blizet">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blizet&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="GitHub stats"/>
-</a>
-
-<a href="https://github.com/blizet">
   <img width="49%" src="https://streak-stats.demolab.com?user=blizet&hide_border=true&background=f5e8bc&ring=ea580c&fire=db2777&currStreakLabel=92400e&sideNums=57534e&dates=78716c" alt="GitHub streak"/>
 </a>
 
@@ -169,16 +165,16 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 
 <p align="left">
   <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&theme=react&bg_color=1c1410&title_color=f59e0b&icon_color=ea580c&hide_border=true&show_icons=true" alt="Djed WebUI"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Djed WebUI"/>
   </a>
   <a href="https://github.com/StabilityNexus/Clowder">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&theme=react&bg_color=1c1410&title_color=db2777&icon_color=f59e0b&hide_border=true&show_icons=true" alt="Clowder"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Clowder"/>
   </a>
   <a href="https://github.com/StabilityNexus/Fate-EVM-Frontend">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&theme=react&bg_color=1c1410&title_color=0d9488&icon_color=db2777&hide_border=true&show_icons=true" alt="Fate EVM Frontend"/>
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Fate EVM Frontend"/>
   </a>
 </p>
 
 ---
 
-<img src="images/footer.svg" width="100%" alt="Like the vibe? Say hi."/>
+<img src="images/footer.png" width="100%" alt="Like the vibe? Say hi."/>
