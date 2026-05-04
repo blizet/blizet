@@ -36,8 +36,6 @@
 
 ---
 
-<img src="images/banner.svg" width="100%" style="display: block;" alt="Anjali Jha banner"/>
-
 <p align="center">
   <a href="https://github.com/blizet"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub"/></a>
   &#8287;&#8287;&#8287;
@@ -60,9 +58,9 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 
 ---
 
-## GitHub Stats
+## GitHub Stack :)
 
-<img align="right" width="45%" src="images/side.svg" alt="Desk note"/>
+<img align="right" width="45%" src="images/desk.png" alt="stack"/>
 
 <div>
 
@@ -75,18 +73,6 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 </a>
 
 </div>
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,py,firebase,postgres,solidity,docker,redis,figma,github&theme=light&perline=13" alt="Tech stack"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,threejs,vite,prisma,githubactions&theme=light&perline=13" alt="Exploring"/>
-</p>
 
 ---
 
@@ -183,18 +169,16 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 
 <p align="left">
   <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=fef3c7&title_color=b45309&text_color=57534e&icon_color=15803d" alt="Djed WebUI"/>
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&theme=react&bg_color=1c1410&title_color=f59e0b&icon_color=ea580c&hide_border=true&show_icons=true" alt="Djed WebUI"/>
   </a>
   <a href="https://github.com/StabilityNexus/Clowder">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&hide_border=true&show_icons=true&bg_color=fce7f3&title_color=be185d&text_color=57534e&icon_color=0ea5e9" alt="Clowder"/>
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&theme=react&bg_color=1c1410&title_color=db2777&icon_color=f59e0b&hide_border=true&show_icons=true" alt="Clowder"/>
   </a>
   <a href="https://github.com/StabilityNexus/Fate-EVM-Frontend">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&hide_border=true&show_icons=true&bg_color=d1fae5&title_color=047857&text_color=57534e&icon_color=db2777" alt="Fate EVM Frontend"/>
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&theme=react&bg_color=1c1410&title_color=0d9488&icon_color=db2777&hide_border=true&show_icons=true" alt="Fate EVM Frontend"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><sub>tech · art · purpose</sub></p>
-
-<img src="images/footer.svg" width="100%" alt="Footer"/>
+<img src="images/footer.svg" width="100%" alt="Like the vibe? Say hi."/>
