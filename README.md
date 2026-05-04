@@ -78,7 +78,7 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://github.com/blizet/images/logos/fate_0.png" width="16" valign="middle"/>
+        <img src="images/logos/fate_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
         &nbsp;Fate Protocol
       </h3>
       <p>Liquidity locked in fixed windows. Built a <b>perpetual</b> prediction market - trustless, always open, on-chain.</p>
@@ -92,7 +92,7 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
     </td>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/firebase.svg" width="16" valign="middle"/>
+        <img src="images/logos/prosper_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
         &nbsp;Prosper.dev
       </h3>
       <p>Approvals and buyers lost across sheets and email. One Firestore-backed source of truth that everyone trusts.</p>
@@ -106,7 +106,7 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://github.com/blizet/images/logos/clowder_0.png" width="16" valign="middle"/>
+        <img src="images/logos/clowder_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
         &nbsp;Clowder
       </h3>
       <p>Effort in OSS and DAOs is invisible without trusted accounting. <b>CAT</b> tokens mint proof-of-work on-chain.</p>
@@ -119,7 +119,7 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
     </td>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="16" valign="middle"/>
+        <img src="images/logos/kridin_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
         &nbsp;Kridinify
       </h3>
       <p>Non-technical operators running scrapes, audits, and dashboards without an engineer on call.</p>
@@ -134,7 +134,7 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://github.com/blizet/images/logos/ext_0.png" width="16" valign="middle"/>
+        <img src="images/logos/ext_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
         &nbsp;Extraction Esports
       </h3>
       <p>Esports sites that read like banner farms. Built an editorial-grade brand system - narrative first.</p>
@@ -146,7 +146,7 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
     </td>
     <td width="50%" valign="top">
       <h3>
-        <img src="https://github.com/blizet/images/logos/rnt_0.png" width="16" valign="middle"/>
+        <img src="images/logos/rnt_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
         &nbsp;RNT
       </h3>
       <p>Busy brand site with no clear next step. Collapsed it to one calm screen, smart defaults, context kept.</p>
