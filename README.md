@@ -165,13 +165,13 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
 
 <p align="left">
   <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Djed WebUI"/>
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Djed WebUI"/>
   </a>
   <a href="https://github.com/StabilityNexus/Clowder">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Clowder"/>
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Clowder"/>
   </a>
   <a href="https://github.com/StabilityNexus/Fate-EVM-Frontend">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Fate EVM Frontend"/>
+    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Fate EVM Frontend"/>
   </a>
 </p>
 
