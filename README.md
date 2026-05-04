@@ -49,179 +49,139 @@
 </p>
 
 <p align="center">
-  <sub>
-    <a href="https://leetcode.com/u/anjalijha2k3">LeetCode</a> ·
-    <a href="https://medium.com/@anjalijha2k3">Medium</a> ·
-    <a href="https://www.figma.com/@blizet">Figma</a> ·
-    <a href="https://anjalijha.info">anjalijha.info</a>
-  </sub>
+  <sub><a href="https://leetcode.com/u/anjalijha2k3">LeetCode</a> · <a href="https://medium.com/@anjalijha2k3">Medium</a> · <a href="https://www.figma.com/@blizet">Figma</a> · <a href="https://anjalijha.info">anjalijha.info</a></sub>
+</p>
+
+<br/>
+
+<p>
+Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships things that feel careful. Web3 systems, AI pipelines, and editorial interfaces. GSoC '25 with AOSSIE, building <b>Fate Protocol</b> — a decentralized perpetual prediction market on EVM. I like my code purposeful and my design with personality. tech · art · purpose ✦
 </p>
 
 ---
 
-<!--  ─────────────────────────────────────────────────
-      CHAPTERS
-      ───────────────────────────────────────────────── -->
+## GitHub Stats
+
+<img align="right" width="45%" src="images/side.svg" alt="Desk note"/>
+
+<div>
+
+<a href="https://github.com/blizet">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blizet&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="GitHub stats"/>
+</a>
+
+<a href="https://github.com/blizet">
+  <img width="49%" src="https://streak-stats.demolab.com?user=blizet&hide_border=true&background=f5e8bc&ring=ea580c&fire=db2777&currStreakLabel=92400e&sideNums=57534e&dates=78716c" alt="GitHub streak"/>
+</a>
+
+</div>
+
+---
+
+## Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blizet/blizet/main/images/colored/laptop%202.png" height="72" alt="chapters"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,py,firebase,postgres,solidity,docker,redis,figma,github&theme=light&perline=13" alt="Tech stack"/>
 </p>
 
-<p align="center"><b>chapters</b><br/><sub>the roles that shaped the stack</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,threejs,vite,prisma,githubactions&theme=light&perline=13" alt="Exploring"/>
+</p>
 
-<table align="center">
+---
+
+## Case Files
+
+<table>
   <tr>
-    <td align="center" width="120"><b>GSoC '25</b><br/><sub>AOSSIE</sub></td>
-    <td>Fate Protocol — perpetual prediction market, dual vaults, <b>8 oracles</b>, Solidity on EVM</td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ethereum.svg" width="16" valign="middle"/>
+        &nbsp;Fate Protocol
+      </h3>
+      <p>Liquidity locked in fixed windows. Built a <b>perpetual</b> prediction market — trustless, always open, on-chain.</p>
+      <p>
+        <img src="https://img.shields.io/badge/dual%20vaults-92400e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/8%20oracles-b45309?style=flat-square"/>
+        <img src="https://img.shields.io/badge/live%20on%20EVM-ea580c?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GSoC%20%2725-db2777?style=flat-square"/>
+      </p>
+      <p><sub>Solidity · viem · wagmi · ethers · RainbowKit</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/firebase.svg" width="16" valign="middle"/>
+        &nbsp;Prosper.dev
+      </h3>
+      <p>Approvals and buyers lost across sheets and email. One Firestore-backed source of truth that everyone trusts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/~60%25%20faster%20approvals-15803d?style=flat-square"/>
+        <img src="https://img.shields.io/badge/real%20estate%20ops-047857?style=flat-square"/>
+      </p>
+      <p><sub>Next.js · Firebase · Firestore · Tailwind</sub></p>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>SDE</b><br/><sub>Kridinify</sub></td>
-    <td><b>15+</b> FastAPI services · React dashboards · scheduled pipelines</td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/solidity.svg" width="16" valign="middle"/>
+        &nbsp;Clowder
+      </h3>
+      <p>Effort in OSS and DAOs is invisible without trusted accounting. <b>CAT</b> tokens mint proof-of-work on-chain.</p>
+      <p>
+        <img src="https://img.shields.io/badge/proof%20of%20work-be185d?style=flat-square"/>
+        <img src="https://img.shields.io/badge/on--chain%20audit-9d174d?style=flat-square"/>
+        <img src="https://img.shields.io/badge/portable-831843?style=flat-square"/>
+      </p>
+      <p><sub>Solidity · React · TypeScript</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" width="16" valign="middle"/>
+        &nbsp;Kridinify
+      </h3>
+      <p>Non-technical operators running scrapes, audits, and dashboards without an engineer on call.</p>
+      <p>
+        <img src="https://img.shields.io/badge/15%2B%20services-0e7490?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React%20dashboards-0369a1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/pipelines-1d4ed8?style=flat-square"/>
+      </p>
+      <p><sub>FastAPI · React · PostgreSQL · Docker</sub></p>
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Apprentice</b><br/><sub>Stability Nexus</sub></td>
-    <td>Fate UI · Web3 frontend · React + Tailwind</td>
-  </tr>
-  <tr>
-    <td align="center"><b>R&amp;D</b><br/><sub>CDAC</sub></td>
-    <td>Research &amp; development</td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI Voice</b><br/><sub>EOSGlobe</sub></td>
-    <td>Azure TTS · Mistral · early RAG · voice bots</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mentor</b><br/><sub>AOSSIE</sub></td>
-    <td>GSoC '26 track · reviews · pairing · open source</td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" width="16" valign="middle"/>
+        &nbsp;Extraction Esports
+      </h3>
+      <p>Esports sites that read like banner farms. Built an editorial-grade brand system — narrative first.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma%20%E2%86%92%20Next.js-4c1d95?style=flat-square"/>
+        <img src="https://img.shields.io/badge/editorial%20system-5b21b6?style=flat-square"/>
+      </p>
+      <p><sub>Next.js · TypeScript · Tailwind · Figma</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" width="16" valign="middle"/>
+        &nbsp;RNT
+      </h3>
+      <p>Busy brand site with no clear next step. Collapsed it to one calm screen — smart defaults, context kept.</p>
+      <p>
+        <img src="https://img.shields.io/badge/one%20screen-57534e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/smart%20defaults-78716c?style=flat-square"/>
+      </p>
+      <p><sub>React · Tailwind · Figma</sub></p>
+    </td>
   </tr>
 </table>
 
 ---
 
-<!--  ─────────────────────────────────────────────────
-      CASE FILES
-      ───────────────────────────────────────────────── -->
+## Some Amazing Open Source Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blizet/blizet/main/images/colored/fate_protocol.png" height="72" alt="case files"/>
-</p>
-
-<p align="center"><b>case files</b><br/><sub>things that escaped the desk</sub></p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="40">⛓</td>
-    <td><b>Fate Protocol</b><br/><sub>perpetual market · dual vaults · 8 oracles · live on EVM</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🏠</td>
-    <td><b>Prosper.dev</b><br/><sub>Firestore hub · ~60% faster approvals</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🐾</td>
-    <td><b>Clowder</b><br/><sub>CAT tokens · proof-of-work on-chain · auditable</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🏗️</td>
-    <td><b>Kridinify</b><br/><sub>15+ services · scrapes · dashboards · pipelines</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🎮</td>
-    <td><b>Extraction Esports</b><br/><sub>Figma → Next.js editorial · narrative · scalable</sub></td>
-  </tr>
-  <tr>
-    <td align="center">📍</td>
-    <td><b>RNT</b><br/><sub>one calm screen · smart defaults · context kept</sub></td>
-  </tr>
-</table>
-
----
-
-<!--  ─────────────────────────────────────────────────
-      STACK
-      ───────────────────────────────────────────────── -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blizet/blizet/main/images/colored/blockchain_ai.png" height="72" alt="stack"/>
-</p>
-
-<p align="center"><b>on the desk</b><br/><sub>grouped by what actually shipped — not invented bars</sub></p>
-
-<p align="center">
-  <sub>
-    <b>🧱 production weight</b><br/>
-    <code>react</code> <code>next</code> <code>typescript</code> <code>tailwind</code> <code>fastapi</code> <code>firebase</code> <code>firestore</code><br/>
-    <code>postgresql</code> <code>solidity</code> <code>viem</code> <code>wagmi</code> <code>ethers</code> <code>rainbowkit</code>
-  </sub>
-</p>
-
-<p align="center">
-  <sub>
-    <b>⚡ daily drivers</b><br/>
-    <code>gsap</code> <code>framer</code> <code>redis</code> <code>docker</code> <code>github actions</code> <code>oauth</code> <code>cloud functions</code> <code>prisma</code>
-  </sub>
-</p>
-
-<p align="center">
-  <sub>
-    <b>🔭 currently exploring</b><br/>
-    <code>rust</code> <code>foundry</code> <code>zk circuits</code> <code>three.js</code> <code>langchain</code> <code>mistral</code> <code>azure tts</code>
-  </sub>
-</p>
-
----
-
-<!--  ─────────────────────────────────────────────────
-      2026 TARGETS
-      ───────────────────────────────────────────────── -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blizet/blizet/main/images/colored/to_do_list%202.png" height="72" alt="targets"/>
-</p>
-
-<p align="center"><b>2026 targets</b><br/><sub>pinned on the board — currently in motion</sub></p>
-
-<p align="center">
-  <sub>🚀 &nbsp; Ship <b>Fate Protocol v2</b> — oracle layer · real-time signals · Chainlink-compatible pricing</sub><br/>
-  <sub>🌱 &nbsp; Mentor <b>3+ first-time GSoC</b> contributors to real merged PRs</sub><br/>
-  <sub>📈 &nbsp; Grow to <b>1000+</b> engaged users on live markets</sub>
-</p>
-
----
-
-<!--  ─────────────────────────────────────────────────
-      GIT ACTIVITY
-      ───────────────────────────────────────────────── -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blizet/blizet/main/images/colored/books%202.png" height="72" alt="git"/>
-</p>
-
-<p align="center"><b>git activity</b><br/><sub>notes I keep coming back to</sub></p>
-
-<p align="center">
-  <img src="images/side.svg" height="180" align="right" alt="desk note"/>
-  <a href="https://github.com/blizet">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=blizet&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/blizet">
-    <img width="48%" src="https://streak-stats.demolab.com?user=blizet&hide_border=true&background=f5e8bc&ring=ea580c&fire=db2777&currStreakLabel=92400e&sideNums=57534e&dates=78716c" alt="GitHub streak"/>
-  </a>
-</p>
-
----
-
-<!--  ─────────────────────────────────────────────────
-      PINNED REPOS
-      ───────────────────────────────────────────────── -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blizet/blizet/main/images/colored/projects_stack_clr.png" height="72" alt="pinned"/>
-</p>
-
-<p align="center"><b>pinned builds</b><br/><sub>things that escaped the desk and made it into the world</sub></p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI">
     <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=fef3c7&title_color=b45309&text_color=57534e&icon_color=15803d" alt="Djed WebUI"/>
   </a>
