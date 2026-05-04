@@ -1,104 +1,124 @@
-<img src="images/Zenitsu.jpeg" width="100%" height="30%" style="margin: 0; padding: 0; display: block;" alt="Banner"/>
+<img src="images/Zenitsu.jpeg" width="100%" style="display: block;" alt="Banner"/>
 
 <p align="center">
-  <a href="https://github.com/blizet" title="GitHub">
-    <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub"/>
+  <a href="https://github.com/blizet">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/anjali75619" title="X (Twitter)">
-    <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X"/>
+  &#8287;&#8287;&#8287;
+  <a href="https://x.com/anjali75619">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/anjali-jha-49734924a/" title="LinkedIn">
-    <img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn"/>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/anjali-jha-49734924a/">
+    <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
   </a>
 </p>
 
-<br/>
+---
 
-### Hi, I am Anjali Jha
+## 👋 Hi, I’m Anjali Jha
 
-Final-year **IT Engineering** student at **Bharati Vidyapeeth College of Engineering** (Class of **2025**), **~9.32 CGPA**. I like **product thinking + full-stack engineering + early startup exposure**—not just writing code in a vacuum.
+Final-year **IT Engineering student** @ **Bharati Vidyapeeth College of Engineering** (2025)  
+**CGPA: ~9.32**
 
-I care about **transparent, decentralized systems**, **usable products**, and **iterating** until the output is actually shippable.
+I build at the intersection of **product, full-stack systems, and Web3** — with a strong bias toward **shipping real things**, not just writing code.
+
+I’m particularly interested in:
+- **Decentralized systems**
+- **AI-powered products**
+- **Transparent & scalable architectures**
 
 ---
 
-## Education
+## 🎓 Education
 
-| | |
-| --- | --- |
-| **Program** | B.Tech, Information Technology |
-| **College** | Bharati Vidyapeeth College of Engineering |
-| **Graduation** | 2025 |
-| **CGPA** | ~9.32 |
-
----
-
-## Core experience
-
-- **Open source / GSoC** — Contributor with **AOSSIE** (Google Summer of Code), work on **Fate Protocol** (decentralized prediction market). Stack: **Solidity**, **Ethereum**, **ethers.js**; also pushing toward a more **rigorous research** direction.
-- **KridIn (startup)** — Built an **NFT marketplace** prototype (gaming moments → NFTs); **won a government grant**.
-- **Neurotrack (current)** — **AI** platform for **neurodevelopmental** support: assessment, management, **patient + therapist** apps, backend on **Supabase / Appwrite**—strong **AI + product + systems** angle.
-- **Stability Nexus / Fate** — **React + Tailwind** frontend work.
-- **Internship (cybersecurity)** — **Centralization risks**, **transparency**-oriented systems; **ML-based phishing** detection; **Puppeteer**, **Firebase** functions, **email** infra, **DevOps** basics.
+| Field | Details |
+|------|--------|
+| Degree | B.Tech, Information Technology |
+| College | Bharati Vidyapeeth College of Engineering |
+| Year | 2025 |
+| CGPA | ~9.32 |
 
 ---
 
-## Tech stack
+## 🚀 Experience
+
+- **GSoC @ AOSSIE**
+  - Built on **Fate Protocol** (decentralized prediction market)
+  - Worked with **Solidity, Ethereum, ethers.js**
+  - Moving toward **research-driven token systems**
+
+- **KridIn (Startup)**
+  - Built an **NFT marketplace** (gaming moments → NFTs)
+  - Secured a **government grant**
+
+- **Neurotrack (Current)**
+  - AI platform for **neurodevelopmental assessment & support**
+  - Built **patient + therapist apps**
+  - Backend: **Supabase / Appwrite**
+
+- **Frontend (Stability Nexus / Fate)**
+  - React + Tailwind based systems
+
+- **Cybersecurity Internship**
+  - Worked on **ML-based phishing detection**
+  - Experience with **Puppeteer, Firebase, DevOps, email infra**
+  - Focus: **risks of centralization**
+
+---
+
+## 🧠 Tech Stack
 
 | Area | Tools |
-| --- | --- |
-| **Frontend** | React, Tailwind CSS |
-| **Backend** | Node.js, Express.js (going deeper) |
-| **Blockchain** | Solidity, Ethereum, SUI (exposure), smart contracts, token design |
-| **AI / ML** | Applied ML (e.g. phishing), AI in products (Neurotrack) |
+|------|------|
+| Frontend | React, Tailwind CSS |
+| Backend | Node.js, Express.js |
+| Blockchain | Solidity, Ethereum, SUI |
+| AI/ML | Applied ML, AI product integration |
 
 ---
 
-## Current focus
+## 🎯 Current Focus
 
-- **Blockchain**: systems, contract design, **token economics** (e.g. dual-token models).
-- **Interviews**: **Intuit** prep (**DSA**-heavy).
-- **Backend**: deeper **Node.js / Express**.
-- **Side project**: Instagram brand (**Mithila**-style printed tees, modern fusion)—aiming for **50k+ views** per post, ~**1 h/day**.
-
----
-
-## Building toward
-
-A mix of **frontend + full-stack + Web3**, with **research-minded** product work—**decentralization**, **transparency**, and **scalable** products.
+- ⚙️ **Blockchain systems & token economics**
+- 🧩 **DSA prep (Intuit interviews)**
+- 🔧 **Deep backend (Node.js / Express)**
+- 🎨 **Side project:** Mithila-style apparel brand (50k+ reach target)
 
 ---
 
-## GitHub stats
-
-<!-- Stats refresh when someone loads your profile—no commit needed. See note below on "automation." -->
+## 📊 GitHub Stats
 
 <img align="right" width="45%" src="images/demon.gif" alt=""/>
 
-<div align="left">
+<div>
 
 <a href="https://github.com/blizet">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blizet&theme=bear&title_color=3996fa&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blizet&theme=bear&show_icons=true&hide_border=true"/>
 </a>
 
 <a href="https://github.com/blizet">
-  <img width="49%" src="https://streak-stats.demolab.com?user=blizet&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3996fa&fire=3996fa&sideNums=3996fa&hide_border=true" alt="GitHub streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=blizet&theme=radical&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-## Highlighted repositories
+## ⭐ Highlighted Projects
 
-<p align="left">
-  <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="Djed-Solidity-ERC20BaseCoin-WebUI"/></a>
-  <a href="https://github.com/StabilityNexus/Clowder"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="Clowder"/></a>
-  <a href="https://github.com/StabilityNexus/Fate-EVM-Frontend"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&theme=react&bg_color=1F222E&title_color=d93d8d&icon_color=3996fa&hide_border=true&show_icons=true" alt="Fate-EVM-Frontend"/></a>
+<p>
+  <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&theme=react&hide_border=true"/>
+  </a>
+  <a href="https://github.com/StabilityNexus/Clowder">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&theme=react&hide_border=true"/>
+  </a>
+  <a href="https://github.com/StabilityNexus/Fate-EVM-Frontend">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&theme=react&hide_border=true"/>
+  </a>
 </p>
 
 ---
 
-<img src="images/footer.png" width="100%" height="auto" alt="Footer"/>
+<img src="images/footer.png" width="100%" alt="Footer"/>
