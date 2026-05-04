@@ -78,55 +78,37 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="images/logos/fate_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
-        &nbsp;Fate Protocol
+        <a href="https://evm.fate.stability.nexus/">
+          <img src="images/logos/fate_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
+          &nbsp;Fate Protocol
+        </a>
       </h3>
-      <p>Liquidity locked in fixed windows. Built a <b>perpetual</b> prediction market - trustless, always open, on-chain.</p>
+      <p>Liquidity locked in fixed windows. Built a <b>perpetual</b> prediction market — trustless, always open, on-chain.</p>
       <p>
-        <img src="https://img.shields.io/badge/dual%20vaults-92400e?style=flat-square"/>
-        <img src="https://img.shields.io/badge/8%20oracles-b45309?style=flat-square"/>
-        <img src="https://img.shields.io/badge/live%20on%20EVM-ea580c?style=flat-square"/>
+        <a href="https://evm.fate.stability.nexus/"><img src="https://img.shields.io/badge/visit-evm.fate.stability.nexus-92400e?style=flat-square"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/dual%20vaults-b45309?style=flat-square"/>
+        <img src="https://img.shields.io/badge/8%20oracles-ea580c?style=flat-square"/>
         <img src="https://img.shields.io/badge/GSoC%20%2725-db2777?style=flat-square"/>
       </p>
       <p><sub>Solidity · viem · wagmi · ethers · RainbowKit</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <img src="images/logos/prosper_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
-        &nbsp;Prosper.dev
+        <a href="https://kridinifytech.in/">
+          <img src="images/logos/kridin_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
+          &nbsp;Kridinify
+        </a>
       </h3>
-      <p>Approvals and buyers lost across sheets and email. One Firestore-backed source of truth that everyone trusts.</p>
+      <p>Infrastructure for real-time web execution — TrendSync and platform work that ships without manual queues.</p>
       <p>
-        <img src="https://img.shields.io/badge/~60%25%20faster%20approvals-15803d?style=flat-square"/>
-        <img src="https://img.shields.io/badge/real%20estate%20ops-047857?style=flat-square"/>
+        <a href="https://kridinifytech.in/"><img src="https://img.shields.io/badge/visit-kridinifytech.in-0e7490?style=flat-square"/></a>
       </p>
-      <p><sub>Next.js · Firebase · Firestore · Tailwind</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="images/logos/clowder_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
-        &nbsp;Clowder
-      </h3>
-      <p>Effort in OSS and DAOs is invisible without trusted accounting. <b>CAT</b> tokens mint proof-of-work on-chain.</p>
       <p>
-        <img src="https://img.shields.io/badge/proof%20of%20work-be185d?style=flat-square"/>
-        <img src="https://img.shields.io/badge/on--chain%20audit-9d174d?style=flat-square"/>
-        <img src="https://img.shields.io/badge/portable-831843?style=flat-square"/>
-      </p>
-      <p><sub>Solidity · React · TypeScript</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <img src="images/logos/kridin_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
-        &nbsp;Kridinify
-      </h3>
-      <p>Non-technical operators running scrapes, audits, and dashboards without an engineer on call.</p>
-      <p>
-        <img src="https://img.shields.io/badge/15%2B%20services-0e7490?style=flat-square"/>
-        <img src="https://img.shields.io/badge/React%20dashboards-0369a1?style=flat-square"/>
-        <img src="https://img.shields.io/badge/pipelines-1d4ed8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/15%2B%20services-0369a1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React%20dashboards-1d4ed8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/pipelines-1e40af?style=flat-square"/>
       </p>
       <p><sub>FastAPI · React · PostgreSQL · Docker</sub></p>
     </td>
@@ -134,25 +116,35 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <img src="images/logos/ext_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
-        &nbsp;Extraction Esports
+        <a href="https://extractionesports.com/">
+          <img src="images/logos/ext_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
+          &nbsp;Extraction Esports
+        </a>
       </h3>
-      <p>Esports sites that read like banner farms. Built an editorial-grade brand system - narrative first.</p>
+      <p>Editorial esports studio — tournaments, broadcast, and a site that reads like a narrative, not a banner farm.</p>
       <p>
-        <img src="https://img.shields.io/badge/Figma%20%E2%86%92%20Next.js-4c1d95?style=flat-square"/>
-        <img src="https://img.shields.io/badge/editorial%20system-5b21b6?style=flat-square"/>
+        <a href="https://extractionesports.com/"><img src="https://img.shields.io/badge/visit-extractionesports.com-4c1d95?style=flat-square"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Figma%20%E2%86%92%20Next.js-5b21b6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/editorial%20system-7c3aed?style=flat-square"/>
       </p>
       <p><sub>Next.js · TypeScript · Tailwind · Figma</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>
-        <img src="images/logos/rnt_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
-        &nbsp;RNT
+        <a href="https://revenantesports.com/">
+          <img src="images/logos/rnt_0.png" width="20" height="20" alt="" style="vertical-align: middle;"/>
+          &nbsp;Revenant Esports
+        </a>
       </h3>
-      <p>Busy brand site with no clear next step. Collapsed it to one calm screen, smart defaults, context kept.</p>
+      <p>Competitive brand and web presence — clear structure, fast surfaces, built for teams and fans.</p>
       <p>
-        <img src="https://img.shields.io/badge/one%20screen-57534e?style=flat-square"/>
-        <img src="https://img.shields.io/badge/smart%20defaults-78716c?style=flat-square"/>
+        <a href="https://revenantesports.com/"><img src="https://img.shields.io/badge/visit-revenantesports.com-57534e?style=flat-square"/></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/one%20screen-78716c?style=flat-square"/>
+        <img src="https://img.shields.io/badge/smart%20defaults-a8a29e?style=flat-square"/>
       </p>
       <p><sub>React · Tailwind · Figma</sub></p>
     </td>
@@ -165,13 +157,10 @@ Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships th
 
 <p align="left">
   <a href="https://github.com/DjedAlliance/Djed-Solidity-ERC20BaseCoin-WebUI">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Djed WebUI"/>
-  </a>
-  <a href="https://github.com/StabilityNexus/Clowder">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Clowder&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Clowder"/>
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DjedAlliance&repo=Djed-Solidity-ERC20BaseCoin-WebUI&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Djed WebUI"/>
   </a>
   <a href="https://github.com/StabilityNexus/Fate-EVM-Frontend">
-    <img width="32%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Fate EVM Frontend"/>
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=StabilityNexus&repo=Fate-EVM-Frontend&hide_border=true&show_icons=true&bg_color=f5e8bc&title_color=92400e&text_color=57534e&icon_color=db2777" alt="Fate EVM Frontend"/>
   </a>
 </p>
 
