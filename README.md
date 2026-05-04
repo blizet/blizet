@@ -47,13 +47,13 @@
 </p>
 
 <p align="center">
-  <sub><a href="https://leetcode.com/u/anjalijha2k3">LeetCode</a> · <a href="https://medium.com/@anjalijha2k3">Medium</a> · <a href="https://www.figma.com/@blizet">Figma</a> · <a href="https://anjalijha.info">anjalijha.info</a></sub>
+  <sub><a href="https://leetcode.com/u/anjalijha2k3">LeetCode</a> · <a href="https://medium.com/@anjalijha2k3">Medium</a> · <a href="https://www.figma.com/@blizet">Figma</a>
 </p>
 
 <br/>
 
 <p>
-Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships things that feel careful. Web3 systems, AI pipelines, and editorial interfaces. GSoC '25 with AOSSIE, building <b>Fate Protocol</b> — a decentralized perpetual prediction market on EVM. I like my code purposeful and my design with personality. tech · art · purpose ✦
+Hi, I'm <b>Anjali</b>  a software developer and full-stack engineer who ships things that feel careful. Web3 systems, AI pipelines, and editorial interfaces. GSoC '25 with AOSSIE, building <b>Fate Protocol</b> - a decentralized perpetual prediction market on EVM. I like my code purposeful and my design with personality. tech · art · purpose ✦
 </p>
 
 ---
@@ -81,7 +81,7 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ethereum.svg" width="16" valign="middle"/>
         &nbsp;Fate Protocol
       </h3>
-      <p>Liquidity locked in fixed windows. Built a <b>perpetual</b> prediction market — trustless, always open, on-chain.</p>
+      <p>Liquidity locked in fixed windows. Built a <b>perpetual</b> prediction market - trustless, always open, on-chain.</p>
       <p>
         <img src="https://img.shields.io/badge/dual%20vaults-92400e?style=flat-square"/>
         <img src="https://img.shields.io/badge/8%20oracles-b45309?style=flat-square"/>
@@ -137,7 +137,7 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" width="16" valign="middle"/>
         &nbsp;Extraction Esports
       </h3>
-      <p>Esports sites that read like banner farms. Built an editorial-grade brand system — narrative first.</p>
+      <p>Esports sites that read like banner farms. Built an editorial-grade brand system - narrative first.</p>
       <p>
         <img src="https://img.shields.io/badge/Figma%20%E2%86%92%20Next.js-4c1d95?style=flat-square"/>
         <img src="https://img.shields.io/badge/editorial%20system-5b21b6?style=flat-square"/>
@@ -149,7 +149,7 @@ Hi, I'm <b>Anjali</b> — a software developer and full-stack engineer who ships
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" width="16" valign="middle"/>
         &nbsp;RNT
       </h3>
-      <p>Busy brand site with no clear next step. Collapsed it to one calm screen — smart defaults, context kept.</p>
+      <p>Busy brand site with no clear next step. Collapsed it to one calm screen, smart defaults, context kept.</p>
       <p>
         <img src="https://img.shields.io/badge/one%20screen-57534e?style=flat-square"/>
         <img src="https://img.shields.io/badge/smart%20defaults-78716c?style=flat-square"/>
